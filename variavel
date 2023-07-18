@@ -1,0 +1,28 @@
+Variavel é um apelido que voce da para algum numero ou palavra
+Quando voce soma uma variavel com aspas ela junta, ao inves de somar
+
+  ^
+  |
+soma de variavel   
+
+nome = "fabio"
+sobrenome = "vieira"
+idade = 20	
+idade2 = 18
+print(idade+idade2)
+print("meu nome é "+nome)
+
+
+as "" se trafromar em texto
+
+idade = 20
+idade_mae = 56
+
+idades = idade_mae + idade
+
+print(idade+idade_mae)
+print("----------------")
+print(idades)
+
+
+Resulta no mesmo resultado os dois prints, o do meio serve so para separar!
