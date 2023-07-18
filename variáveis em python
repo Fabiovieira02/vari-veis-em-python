@@ -1,0 +1,10 @@
+nome = "fabio"
+sobrenome = "vieira"
+idade = "18"
+dia = "dia"
+
+print("meu nome é "+nome)
+
+print("idade é "+idade)
+
+print("dia é "+dia)
